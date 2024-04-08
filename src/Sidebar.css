@@ -1,0 +1,27 @@
+.menu-item {
+
+    cursor: pointer;
+    padding: 5px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .submenu {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .submenu-item {
+    cursor: pointer;
+    padding: 5px;
+    margin-bottom: 5px;
+  
+    align-items: center;
+    justify-content: center;
+  }
